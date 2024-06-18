@@ -4,7 +4,7 @@ This archive contains all the documents needed to run the "Sliding Puzzle" game.
 
 ## Sliding_Puzzle Folder Contents
 
-The `Sliding_Puzzle` folder contains 7 folders and 2 files:
+The `Sliding Puzzle` folder contains 7 folders and 2 files:
 
 ### Folders
 
@@ -27,12 +27,12 @@ To code this game, we used "Visual Studio Code" and "Eclipse". To launch the gam
 
 ### With Visual Studio Code
 
-1. Open the `Sliding_Puzzle` folder.
+1. Open the `Sliding Puzzle` folder.
 2. Run the main class located in `Launcher.java` (in the `src` folder).
 
 ### With Eclipse
 
 1. In a new workspace, select "Import existing projects".
-2. Choose the `Sliding_Puzzle` folder in "Select root directory".
+2. Choose the `Sliding Puzzle` folder in "Select root directory".
 3. Click the "Finish" button.
 4. Run the main class located in `Launcher.java` (in the `src` folder).
