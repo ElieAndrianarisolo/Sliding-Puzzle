@@ -2,6 +2,22 @@
 
 This archive contains all the documents needed to run the "Sliding Puzzle" game. This game consists of sliding the pieces of images one after the other on a platform with an empty square until all are put in order and the final image appears.
 
+## Application Screenshots
+
+Below are some screenshots of the game interface:
+
+- Home Screen: Displays the game title and main menu options.
+
+![01_Home](./documentation/images_app/01_Home.png)
+
+- Level Selection Page: Allows players to choose difficulty levels.
+
+![02_Levels](./documentation/images_app/02_Levels.png)
+
+- Game Interface: Shows the puzzle grid where players can slide pieces to solve the puzzle.
+
+![03_Game_Interface](./documentation/images_app/03_Game_Interface.png)
+
 ## Sliding_Puzzle Folder Contents
 
 The `Sliding_Puzzle` folder contains 7 folders and 2 files:
