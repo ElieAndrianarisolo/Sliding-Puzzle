@@ -1,6 +1,6 @@
 # Sliding Puzzle
 
-This archive contains all the documents needed to run the "Sliding Puzzle" game. This game consists of sliding the pieces of images one after the other on a platform with an empty square until all are put in order and the final image appears.
+This project contains all the documents needed to run the "Sliding Puzzle" game. This game consists of sliding the pieces of images one after the other on a platform with an empty square until all are put in order and the final image appears.
 
 ## Application Screenshots
 
